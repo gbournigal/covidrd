@@ -5,5 +5,5 @@ subtitle: Rt para RD está basado en rt.live
 ---
 Aquí explico un poco sobre el proyecto y donde encontrar más información
 
-### My story
+### Más Información
 Aquí puedo agregar más comentarios
