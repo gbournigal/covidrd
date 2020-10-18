@@ -7,5 +7,4 @@ Aquí explico un poco sobre el proyecto y donde encontrar más información
 
 ### Más Información
 Aquí puedo agregar más comentarios
-![Crepe](<img src="/assets/img/Estimaciones/actual.png?raw=true"/>)
-![image](/assets/img/Estimaciones/actual.png)
+
