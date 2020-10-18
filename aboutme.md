@@ -8,3 +8,7 @@ Aquí explico un poco sobre el proyecto y donde encontrar más información
 ### Más Información
 Aquí puedo agregar más comentarios
 
+![image](/assets/img/Estimaciones/2meses.png)
+
+![image](/assets/img/404-southpark.jpg)
+
