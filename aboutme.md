@@ -10,5 +10,4 @@ Aquí puedo agregar más comentarios
 
 ![image](/assets/img/Estimaciones/2meses.png)
 
-![image](/assets/img/404-southpark.jpg)
 
