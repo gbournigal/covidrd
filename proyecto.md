@@ -27,4 +27,4 @@ Se utiliza el modelo generativo desarrollado por Kevin Systrom y Thomas Vladek q
  Systrom, K., Vladek, T., and Krieger, M. (2020).   Rt live. https://github.com/rtcovidlive/covid-model.
 
 
- 
+ blabla
