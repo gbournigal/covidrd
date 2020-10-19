@@ -19,9 +19,9 @@ title: Resultados por Provincias
 <a href="#SR">Sánchez Ramírez</a>;
 <a href="#Vega">La Vega</a>
 
-<p float="center">
-  <img id="Alt" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/Alt.png" width="450"/>
-  </p>
+
+  <img id="Alt" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/Alt.png" width="450" class="center" />
+  
   <p float="center">
   <img id="Azua" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/Azua.png" width="450" />
   </p>
