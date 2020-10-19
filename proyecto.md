@@ -21,7 +21,7 @@ Al tratarse de una estimación instantánea, existe una mayor probabilidad de er
 Se utiliza el modelo generativo desarrollado por Kevin Systrom y Thomas Vladek que potencia <a href="https://rt.live">rt.live</a>. Utiliza el número de pruebas procesadas diarias y la cantidad de positivos para inferir la curva R<sub>e(t)</sub> que mejor se ajusta al comportamiento de los datos. El  <a href="https://github.com/rtcovidlive/covid-model/blob/master/tutorial.ipynb">tutorial</a> realizado por los autores explica la intuición y supuestos detrás del modelo. Los datos son extraídos de <a href="https://github.com/gcaff/COVID19-RD/tree/master/data">Gustavo Caffaro y Michell Payano</a>.
  </p>
  
- ## Referencias
+ <big> Referencias </big>
  Caffaro, G. and Payano, M. (2020). Base de datos covid rd. https://github.com/gcaff/COVID19-RD
 
  Systrom, K., Vladek, T., and Krieger, M. (2020).   Rt live. https://github.com/rtcovidlive/covid-model.
