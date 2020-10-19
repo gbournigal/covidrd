@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre el Proyecto
-subtitle: Rt para RD basado en [rt.live](https://rt.live)
+subtitle: Rt para RD basado en <a href="rt.live">rt.live</a>
 
 ---
  La Tasa de Reproducción R<sub>0</sub> es la cantidad de personas que un individuo infectado por un virus contagia. Si se encuentra por encima de 1 quiere decir que el esparcimiento del virus se mantendrá en crecimiento, si se encuentra por debajo de 1 significa que el esparcimiento estará en disminución y eventualmente el virus desaparecerá.
