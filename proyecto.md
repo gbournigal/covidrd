@@ -11,5 +11,6 @@ subtitle: Estimación Rt para República Dominicana
  
 Al tratarse de una estimación instantánea, existe una mayor probabilidad de error mientras *t* se encuentre más cerca de la fecha actual, mientras más se aleja y nuevos datos se publican, más precisa se vuelve la estimación. Por esta razón, el cambio entre los intervalos de confianza entre las figuras de la página principal. De igual forma, se debe tener en cuenta la sensabilidad de las últimas estimaciones ante las publicaciones más recientes de los boletines epidemiológicos del Ministerio de Salud. Para dudas de interpretación, los desarrolladores del modelo facilitan esta [página de preguntas y respuestas](https://rt.live/faq)
 </p>
+
 ### Más Información
-Aquí puedo agregar más comentarios
+Aquí puedo agregar más comentarios. Prueba
