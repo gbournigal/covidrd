@@ -21,3 +21,6 @@ title: Resultados por Provincias
    <img src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/Vega.png" width="350" />
 </p>
 
+<i>*Nota: Rojo Oscuro: Intervalo de Confianza 80%
+
+Rojo/transparente: Intervalo de Confianza 99%</i>
