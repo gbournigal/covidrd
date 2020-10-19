@@ -22,48 +22,34 @@ title: Resultados por Provincias
 
   <img id="Alt" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/Alt.png" width="450" class="center" />
   
-  <p float="center">
-  <img id="Azua" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/Azua.png" width="450" />
-  </p>
-  <p float="center">
-   <img id="DN" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/DN.png" width="450" />
-  </p>
-  <p float="center">
-  <img id="Duarte" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/Duarte.png" width="450" />
-  </p>
-  <p float="center">
-   <img id="Espa" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/Espa.png" width="450" />
-  </p>
-  <p float="center">
-  <img id="Pera" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/Pera.png" width="450" />
-  </p>
-  <p float="center">
-   <img id="PP" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/PP.png" width="450" />
-  </p>
-  <p float="center">
-  <img id="Roma" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/Roma.png" width="450" />
-  </p>
-  <p float="center">
-   <img id="Sant" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/Sant.png" width="450" />
-  </p>
-  <p float="center">
-  <img id="SC" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/SC.png" width="450" />
-  </p>
-  <p float="center">
-   <img id="SD" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/SD.png" width="450" />
-  </p>
-  <p float="center">
-  <img id="SJ" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/SJ.png" width="450" />
-  </p>
-  <p float="center">
-   <img id="SPM" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/SPM.png" width="450" />
-  </p>
-  <p float="center">
-  <img id="SR" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/SR.png" width="450" />
-  </p>
-  <p float="center">
-   <img id="Vega" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/Vega.png" width="450" />
-</p>
+  <img id="Azua" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/Azua.png" width="450" class="center" />
+ 
+   <img id="DN" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/DN.png" width="450" class="center" />
+
+  <img id="Duarte" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/Duarte.png" width="450" class="center" />
+
+   <img id="Espa" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/Espa.png" width="450" class="center" />
+
+  <img id="Pera" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/Pera.png" width="450" class="center" />
+
+   <img id="PP" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/PP.png" width="450" class="center" />
+
+  <img id="Roma" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/Roma.png" width="450" class="center" />
+
+   <img id="Sant" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/Sant.png" width="450" class="center" />
+
+  <img id="SC" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/SC.png" width="450" class="center" />
+
+   <img id="SD" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/SD.png" width="450" class="center" />
+
+  <img id="SJ" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/SJ.png" width="450" class="center" />
+
+   <img id="SPM" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/SPM.png" width="450" class="center" />
+
+  <img id="SR" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/SR.png" width="450" class="center" />
+
+   <img id="Vega" src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/Vega.png" width="450" class="center" />
+
 
 <i>*Nota: Rojo Oscuro: Intervalo de Confianza 80%</i>
 
