@@ -24,4 +24,4 @@ Se utiliza el modelo generativo desarrollado por Kevin Systrom y Thomas Vladek q
  <h2> Referencias </h2>
  Caffaro, G. and Payano, M. (2020). Base de datos covid rd. <a href="https://github.com/gcaff/COVID19-RD"><https://github.com/gcaff/COVID19-RD>
 
- Systrom, K., Vladek, T., and Krieger, M. (2020).   Rt live. <a href=https://github.com/rtcovidlive/covid-model.><https://github.com/rtcovidlive/covid-model.>
+ Systrom, K., Vladek, T., and Krieger, M. (2020). Rt live. <a href="https://github.com/rtcovidlive/covid-model."><https://github.com/rtcovidlive/covid-model.>
