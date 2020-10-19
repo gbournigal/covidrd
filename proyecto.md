@@ -16,12 +16,12 @@ subtitle: Estimación Rt para República Dominicana
 Al tratarse de una estimación instantánea, existe una mayor probabilidad de error mientras <i>t</i> se encuentre más cerca de la fecha actual, mientras más se aleja y nuevos datos se publican, más precisa se vuelve la estimación. Por esta razón, el cambio entre los intervalos de confianza entre las figuras de la página principal. De igual forma, se debe tener en cuenta la sensabilidad de las últimas estimaciones ante las publicaciones más recientes de los boletines epidemiológicos del Ministerio de Salud. Para dudas de interpretación, los desarrolladores del modelo facilitan esta <a href="https://rt.live/faq">página de preguntas y respuestas</a>
  </p>
 
-### Modelo Utilizado
+<h2> Modelo Utilizado </h2>
 <p align="justify">
 Se utiliza el modelo generativo desarrollado por Kevin Systrom y Thomas Vladek que potencia <a href="https://rt.live">rt.live</a>. Utiliza el número de pruebas procesadas diarias y la cantidad de positivos para inferir la curva R<sub>e(t)</sub> que mejor se ajusta al comportamiento de los datos. El  <a href="https://github.com/rtcovidlive/covid-model/blob/master/tutorial.ipynb">tutorial</a> realizado por los autores explica la intuición y supuestos detrás del modelo. Los datos son extraídos de <a href="https://github.com/gcaff/COVID19-RD/tree/master/data">Gustavo Caffaro y Michell Payano</a>.
  </p>
  
- <big> Referencias </big>
+ <h2> Referencias </h2>
  Caffaro, G. and Payano, M. (2020). Base de datos covid rd. https://github.com/gcaff/COVID19-RD
 
  Systrom, K., Vladek, T., and Krieger, M. (2020).   Rt live. https://github.com/rtcovidlive/covid-model.
