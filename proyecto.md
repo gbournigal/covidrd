@@ -9,11 +9,11 @@ subtitle: Estimación Rt para República Dominicana
  </p>
  
  <p align="justify">
- En este boletín se presenta la Tasa de Reproducción Efectiva (R<sub>e(t)</sub>), la cual se define como una estimación instantánea *nowcast* de cómo se comporta la Tasa de Reproducción en el día *t*. Es decir, estima que si un individuo se infecta en el día *t* contagiará a R<sub>e(t)</sub> cantidad de personas.
+ En esta página se presenta la Tasa de Reproducción Efectiva (R<sub>e(t)</sub>), la cual se define como una estimación instantánea <i>nowcast</i> de cómo se comporta la Tasa de Reproducción en el día <i>t</i>. Es decir, estima que si un individuo se infecta en el día <i>t</i> contagiará a R<sub>e(t)</sub> cantidad de personas.
   </p>
   
  <p align="justify">
-Al tratarse de una estimación instantánea, existe una mayor probabilidad de error mientras *t* se encuentre más cerca de la fecha actual, mientras más se aleja y nuevos datos se publican, más precisa se vuelve la estimación. Por esta razón, el cambio entre los intervalos de confianza entre las figuras de la página principal. De igual forma, se debe tener en cuenta la sensabilidad de las últimas estimaciones ante las publicaciones más recientes de los boletines epidemiológicos del Ministerio de Salud. Para dudas de interpretación, los desarrolladores del modelo facilitan esta <a href="https://rt.live/faq">página de preguntas y respuestas</a>
+Al tratarse de una estimación instantánea, existe una mayor probabilidad de error mientras <i>t</i> se encuentre más cerca de la fecha actual, mientras más se aleja y nuevos datos se publican, más precisa se vuelve la estimación. Por esta razón, el cambio entre los intervalos de confianza entre las figuras de la página principal. De igual forma, se debe tener en cuenta la sensabilidad de las últimas estimaciones ante las publicaciones más recientes de los boletines epidemiológicos del Ministerio de Salud. Para dudas de interpretación, los desarrolladores del modelo facilitan esta <a href="https://rt.live/faq">página de preguntas y respuestas</a>
  </p>
 
 ### Más Información
