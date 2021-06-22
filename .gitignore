@@ -2,6 +2,7 @@
 _site
 .sass-cache
 .vagrant
+.spyproject/
 
 # general
 .DS_Store
