@@ -33,7 +33,7 @@ title: Resultados por Provincias
 <a href="#SantR">Santiago Rodríguez</a>;
 <a href="#Sant">Santiago</a>;
 <a href="#SD">Santo Domingo</a>;
-<a href="#Vega">La Vega</a>
+<a href="#Vega">La Vega</a>;
 <a href="#Valverde">Valverde</a>
 
 <center id="Alt">
