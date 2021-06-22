@@ -165,4 +165,4 @@ title: Resultados por Provincias
 
 <i>Rojo/transparente: Intervalo de Confianza 99%</i>
 
-<a href="https://github.com/gbournigal/covid-model/raw/master/results/resultado_consolidado/result_master.xlsx">Descargar los datos aquí</a>
+<a href="https://github.com/gbournigal/covid-model/raw/master/results/resultado_consolidado/result_master.csv">Descargar los datos aquí</a>
