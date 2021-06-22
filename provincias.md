@@ -19,8 +19,8 @@ title: Resultados por Provincias
 <a href="#SR">Sánchez Ramírez</a>;
 <a href="#Vega">La Vega</a>
 
-<center id="Alt"><b>La Altagracia</b></center>
-  <img src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/Alt.png" width="450" class="center" />
+<center id="Alt">
+  <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://gbournigal.github.io/covidrd/assets/img/La Altagracia.html" height="525" width="100%"></iframe></center>
   
   <center id="Azua"><b>Azua</b></center>
   <img src="https://gbournigal.github.io/covidrd/assets/img/Estimaciones/Azua.png" width="450" class="center" />
