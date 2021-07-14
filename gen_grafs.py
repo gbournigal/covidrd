@@ -26,13 +26,23 @@ def create_graf_principal(df,date,primero):
     
     colorscale = [[0, 'blue'], [1, 'red']]
     
+    if sum(color)==32:
+        marker={'color':'red',
+                'size': 10}
+    elif sum(color)==0:
+        marker={'color': 'blue',
+                'size': 10}
+    else:
+        marker={'color': color,
+                  'colorscale': colorscale,
+                  'size': 10
+                 }
+        
+    
     fig = go.Figure(data=go.Scatter(
             x=provincias,
             y=median,
-            marker = {'color': color,
-                  'colorscale': colorscale,
-                  'size': 10
-                 },
+            marker = marker,
             mode='markers',
             error_y=dict(
                 type='data',
